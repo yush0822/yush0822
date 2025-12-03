@@ -1,4 +1,4 @@
-## Hi there 👋
+yush0822.github.io
 
 <!--
 **yush0822/yush0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
